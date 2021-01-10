@@ -16,5 +16,5 @@ The player or players are dealt a two-card hand and add together the value of th
   * Stand: Take no more cards, also known as "stand pat", "stick", or "stay".
   
 ## Openening project on a clean PC
-To open this Qt project on your PC you need to download the program Qt. This link will redirect you to the page where you can download the program --> https://www.qt.io/download
+To open this Qt project on your PC you need to download the program Qt. This link will redirect you to the page where you can download the program --> https://www.qt.io/download .
 Once the program is downloaded and you completed the setup, you need to select the project to open it in the Qt maker. Once the project openend, you can run the program by clicking on the green play button at the bottom left corner of the Qt program. This is how you open the BlackJack project in a Qt program
